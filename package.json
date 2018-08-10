@@ -1,0 +1,17 @@
+{
+  "name": "nyancat-plugin",
+  "version": "0.0.2",
+  "description": "run run run",
+  "main": "index.js",
+  "engines": {
+    "oni": "^0.3.1"
+  },
+  "scripts": {},
+  "oni": {
+    "supportedFileTypes": [
+      "*"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
